@@ -11,6 +11,5 @@ public class Main {
         System.out.printf("하루의 일한 시간 : %d 시간\n", work);
         System.out.printf("며칠 일했나요 : %d 일\n", day);
         System.out.printf("나의 지갑에 돈 : %,d %c\n", money, '\uffe6');
-
     }
 }
