@@ -11,6 +11,7 @@ public class Main {
         char g = '야';
         final float PI = 3.141592f; //symbolic Constants 기호적 상수
 
+
         String y = null;
         // String z = new String("");
 

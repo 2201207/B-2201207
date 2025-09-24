@@ -16,7 +16,6 @@ public class Main {
 
         result = Km / litter;
 
-
         System.out.printf("자동차 소비된 연료 : %.1f Litter\n", litter);
         System.out.printf("자동차 운행 거리 : %.1f Km\n", Km);
         System.out.printf("연비 :  %.2f%c\n", result, '\u339e');

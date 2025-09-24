@@ -9,5 +9,6 @@ public class Main {
         System.out.printf("빛이 1초에 가는 거리 : %,d Km\n", SPEED);
         System.out.printf("1년 : %6.2f\n", year);
         System.out.printf("1광년 : %,.2f Km\n", light);
+
     }
 }

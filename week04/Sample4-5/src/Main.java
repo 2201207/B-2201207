@@ -20,7 +20,6 @@ float saveRate; // 저축 비율(data)
         save = (int) (saveRate * salary);
         remain = salary - (save + expenses);
         money = remain / 30;
-
         System.out.printf("[예산 계산 결과]\n");
         System.out.printf("월급 : %,d원\n", salary);
         System.out.printf("저축액 : %,d원\n", save);

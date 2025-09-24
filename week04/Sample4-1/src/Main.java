@@ -14,7 +14,6 @@ public class Main {
         // a = a - 1; 5
         float e = (float) (5.0 / 4);
                 a += 4;  // a = a + 4;
-
         System.out.printf("a = %d, b = %d, c = %d, d = %d, e = %.2f\n", a,b,c,d,e);
     }
 }

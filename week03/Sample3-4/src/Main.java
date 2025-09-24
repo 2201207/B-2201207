@@ -11,5 +11,6 @@ public class Main {
         System.out.printf("나이 : %d\n", age);
         System.out.printf("시력 : %3.1f\n", eye);
         System.out.printf("혈액형 : %s\n", blood);
+
         }
     }

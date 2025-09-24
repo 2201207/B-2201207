@@ -15,6 +15,7 @@ public class Main {
         weight = keyboard.nextFloat();
         feet = height / FEETUNIT;
         pound = weight / POUNDUNIT;
+
 System.out.printf("당신의 키는 (%.2f Cm)는 %.3f 피트(feet) 입니다.\n", height, feet);
         System.out.printf("당신의 몸무게는 (%.2f kg) %.3f 파운드(pound)입니다. \n", weight, pound);
     }
