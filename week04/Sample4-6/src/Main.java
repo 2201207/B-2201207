@@ -14,7 +14,6 @@ public class Main {
         height = keyborad.nextInt();
 
         area = base * height / 2.0f;
-
         System.out.println(">>> 삼각형 면적 <<<");
         System.out.printf("\t밑변 : %,d Cm\n", base);
         System.out.printf("\t높이 : %,d Cm\n", height);

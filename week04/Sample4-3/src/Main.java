@@ -6,7 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
 
-
         int op1;
     int op2;
     int result1;
