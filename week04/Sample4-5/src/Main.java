@@ -17,6 +17,7 @@ float saveRate; // 저축 비율(data)
         System.out.print("월 기본 지출 비용을 입력 : ");
         expenses = keyboard.nextInt();
 
+
         save = (int) (saveRate * salary);
         remain = salary - (save + expenses);
         money = remain / 30;

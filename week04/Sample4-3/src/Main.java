@@ -12,6 +12,7 @@ public class Main {
     int result2;
     float result3;
 
+
         System.out.printf("첫 번째 수를 입력 (분자) : ");
         op1 = keyboard.nextInt();
         System.out.printf("두 번째 수를 입력 (분모) : ");

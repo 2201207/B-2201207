@@ -10,5 +10,6 @@ public class Main {
         int f = 5 % -2; //1
         a += (3 + 6); // a = a + (3 + 6) = 14
         System.out.printf("c = %d, d = %d, e = %d, f = %d\n", c,d,e,f);
+
     }
 }

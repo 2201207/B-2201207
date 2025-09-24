@@ -14,5 +14,6 @@ public class Main {
         won = keyboard.nextInt();
         dollar = won / convert;
         System.out.printf("원화 %,d원은 %,f 달러($) 입니다.\n", won,dollar);
+
     }
 }

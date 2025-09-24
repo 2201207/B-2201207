@@ -18,5 +18,6 @@ public class Main {
         System.out.printf("\t밑변 : %,d Cm\n", base);
         System.out.printf("\t높이 : %,d Cm\n", height);
         System.out.printf("\t면적 : %.2f\u33A0\n", area);
+
     }
 }
