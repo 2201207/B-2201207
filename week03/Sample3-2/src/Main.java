@@ -10,5 +10,6 @@ public class Main {
         result = (short) (3.0 + 3.5);
         System.out.printf("%d + %d = %d\n", test1, test2, result);
 
+
     }
 }

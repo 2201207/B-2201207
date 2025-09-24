@@ -13,5 +13,6 @@ public class Main {
         System.out.printf("혈액형 : %s\n", blood);
 
 
+
         }
     }

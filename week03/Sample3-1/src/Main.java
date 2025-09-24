@@ -22,5 +22,6 @@ public class Main {
         f = (short) 40000;
         a = a + 5;
 
+
         }
     }
