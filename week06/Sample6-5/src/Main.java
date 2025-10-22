@@ -9,7 +9,6 @@ public class Main {
     float fighter;
     float temp;
     int result;
-
     System.out.printf("전투기의 스피는 입력 : ");
     fighter = keyboard.nextFloat();
 

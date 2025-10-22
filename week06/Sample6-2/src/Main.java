@@ -9,7 +9,6 @@ public class Main {
     int minunt;
     int second;
 
-
     day = (int) YEAR;
     temp = YEAR - day;
     temp *= 24;

@@ -12,8 +12,6 @@ float result;
         degree = keyboard.nextInt();;
 
         result = degree * (9.0f / 5) + 32;
-
-
         System.out.printf("섭씨온도 %d\u2103는 화씨 온도 %.1f\u2109 입니다.\n", degree, result);
     }
 }

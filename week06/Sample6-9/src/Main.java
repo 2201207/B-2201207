@@ -13,7 +13,6 @@ final int CIGA = 7; //분
         int result;
         int hour;
 int day;
-
         System.out.printf("당신은 하루에 몇개피의 담배를 피우나요 ?");
         gapi = keyboard.nextInt();
 

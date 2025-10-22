@@ -9,8 +9,6 @@ long result;
 
 second = Year * 24 * 60 * 60;
         result = (long) second * SPEED;
-
-
         System.out.printf("빛은 1초에 %,d Km를 이동합니다.\n", SPEED);
         System.out.printf("%d일은 %,d 초 입니다.\n", Year, second);
         System.out.printf("빛이 %d일동안 이동한 거리는 %,d Km 입니다.\n", Year, result);
