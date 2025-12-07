@@ -17,7 +17,6 @@ public class Main {
             if (1 <= x && x <= 4) ip[x]++;
             else nogood++;
         }
-
         System.out.println("득표수");
         System.out.printf("1번 : %d표%n", ip[1]);
         System.out.printf("2번 : %d표%n", ip[2]);

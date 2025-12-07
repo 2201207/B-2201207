@@ -56,7 +56,6 @@ public class Main {
 
         keyboard.close();
     }
-
     static int readScore(Scanner sc, String prompt) {
         while (true) {
             System.out.print(prompt);

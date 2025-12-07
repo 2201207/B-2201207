@@ -21,7 +21,6 @@ public class Main {
             if (s < min) min = s;
         }
         float average = (float) total / N;
-
         System.out.println("출력 결과");
         System.out.printf("합계  : %d%n", total);
         System.out.printf("평균  : %.2f%n", average);
