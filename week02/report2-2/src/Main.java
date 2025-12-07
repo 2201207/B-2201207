@@ -6,7 +6,6 @@ public class Main {
         String name;
         int family;
         String where;
-
         System.out.print("당신의 이름은 ?");
         name = keyboard.nextLine();
         System.out.printf("%s님의 가족은 몇 명입니까? " , name);
