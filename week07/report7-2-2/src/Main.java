@@ -30,5 +30,6 @@ public class Main {
         System.out.printf("적용 할인율: %.0f%%%n", rate * 100);
         System.out.printf("할인액: %,d원%n", discount);
         System.out.printf("결제금액: %,d원%n", pay);
+
     }
 }

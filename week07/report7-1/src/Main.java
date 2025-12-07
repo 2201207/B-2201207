@@ -11,7 +11,6 @@ public class Main {
         int b = keyboard.nextInt();
         int c = keyboard.nextInt();
 
-
         int max = a, min = a;
         if (b > max) max = b;
         if (c > max) max = c;

@@ -27,5 +27,6 @@ public class Main {
         System.out.printf("%-6d %-6d %-6d %6.2f   %-2c %-8s%n",
                 kor, eng, math, avg, grade, result);
         System.out.println("================================");
+
     }
 }

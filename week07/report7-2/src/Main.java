@@ -18,5 +18,6 @@ public class Main {
         } else {
             System.out.println("한파경보");
         }
+
     }
 }
