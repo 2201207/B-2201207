@@ -16,6 +16,5 @@ public class Main {
         boolean free = (amount >= 50000) || (isMember && amount >= 30000);
 
         System.out.printf("무료배송 가능여부: %s%n", free ? "적용" : "미적용");
-
     }
 }

@@ -18,5 +18,6 @@ public class Main {
         plus = (score == 100 || score % 10 >= 5) ? '+' : '0';
         System.out.printf("\n 입력 점수 : %d", score);
         System.out.printf("\n 학점 : %c%c\n", grade, grade == 'F' ? ' ' : plus);
+
     }
 }

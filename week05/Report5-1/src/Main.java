@@ -19,5 +19,6 @@ public class Main {
                         ch, origin, convert, result) :
                 String.format("\n 입력 오류 입니다.");
         System.out.printf(message);
+
     }
 }

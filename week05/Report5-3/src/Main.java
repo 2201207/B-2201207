@@ -15,3 +15,4 @@ public class Main {
         System.out.printf("%d 초 = %d 시간 %d 분 %d 초%n", total, hours, minutes, seconds);
         }
     }
+
