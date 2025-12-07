@@ -15,7 +15,6 @@ public class Main {
         int[] code = new int[N], useAmt = new int[N], tax = new int[N], pay = new int[N];
         double[] usedRaw = new double[N];
         int[] used = new int[N];
-
         for (int i = 0; i < N; i++) {
             System.out.println("\n=== " + (i+1) + "번째 데이터 입력 ===");
             System.out.print("번호(4자리): "); no[i] = keyborad.next();

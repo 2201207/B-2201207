@@ -10,6 +10,5 @@ public class Main {
         test[3] = new int[2];
 
         int[][] temp = new int[][] {{1, 2, 3},{2, 3, 4}};
-
     }
 }
