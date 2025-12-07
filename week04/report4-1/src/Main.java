@@ -12,5 +12,6 @@ public class Main {
         long finalPrice = (price2 / 1000) * 1000;
 
         System.out.printf("주택지 가격: %,d 원", finalPrice);
+
     }
 }
