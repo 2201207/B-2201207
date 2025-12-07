@@ -15,6 +15,7 @@ public class Main {
             return 0;
         }
     }
+
     public static void main(String[] args) {
         Scanner keyborad = new Scanner(System.in);
         System.out.print("년도 : ");
