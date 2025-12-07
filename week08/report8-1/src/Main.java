@@ -14,5 +14,6 @@ public class Main {
                         (age >= 7)  ? 1000 : 0;
 
         System.out.println("입장료는 " + ticket + "원 입니다.");
+
     }
 }

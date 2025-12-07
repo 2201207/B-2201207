@@ -16,5 +16,6 @@ public class Main {
                 System.out.printf("매출세액 : %.0f%n", taxout);
                 System.out.printf("매입세액 : %.0f%n", taxin);
                 System.out.printf("납부세액 : %.0f%n", taxpay);
+
             }
         }

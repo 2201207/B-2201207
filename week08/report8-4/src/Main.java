@@ -16,5 +16,6 @@ public class Main {
 
                 System.out.printf("구의 부피 : %.2f%n", v);
                 System.out.printf("구의 표면적 : %.2f%n", s);
+
             }
         }
