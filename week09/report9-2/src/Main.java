@@ -12,5 +12,6 @@ public class Main {
 
         System.out.printf("한 달 저금액: %,d원%n", month);
         System.out.printf("총 저금액(30년): %,d원%n", amount);
+
         }
     }

@@ -26,5 +26,6 @@ public class Main {
             chicken3++;
         } while (chicken3 <= HEADS);
         System.out.printf("do   닭:%d 개:%d%n", c3, d3);
+
     }
 }

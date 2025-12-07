@@ -12,5 +12,6 @@ public class Main {
             pos -= DOWN;
         }
         System.out.printf("%d일째 낮에 탈출 (최종 %dcm)%n", day, pos);
+
         }
     }
