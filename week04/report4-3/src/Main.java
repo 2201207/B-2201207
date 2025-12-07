@@ -19,6 +19,7 @@ public class Main {
         System.out.print("penny(1c) 개수: ");
         long penny = keyboard.nextLong();
 
+
         long totalCents = dollar*100 + half*50 + quarter*25 + dime*10 + nickel*5 + penny;
         long dollars = totalCents / 100;
         long cents   = totalCents % 100;

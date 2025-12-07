@@ -14,5 +14,6 @@ public class Main {
 
         System.out.printf("금액: %,d원%n", amount);
         System.out.printf("세금: %,d원%n", tax);
+
     }
 }
