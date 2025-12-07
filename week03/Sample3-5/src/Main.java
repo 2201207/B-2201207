@@ -13,7 +13,6 @@ public class Main {
         litter = keyborad.nextFloat();
         System.out.printf("운행한 거리 입력 ");
         Km = keyborad.nextFloat();
-
         result = Km / litter;
 
         System.out.printf("자동차 소비된 연료 : %.1f Litter\n", litter);
