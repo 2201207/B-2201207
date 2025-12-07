@@ -26,6 +26,5 @@ public class Main {
         System.out.printf("평균  : %.2f%n", average);
         System.out.printf("최대값: %d%n", max);
         System.out.printf("최소값: %d%n", min);
-
     }
 }

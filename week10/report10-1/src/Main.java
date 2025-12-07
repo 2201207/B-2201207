@@ -24,6 +24,5 @@ public class Main {
         System.out.printf("4번 : %d표%n", ip[4]);
         System.out.printf("무효표 : %d표%n", nogood);
         System.out.printf("총 %d표%n", VOTERS);
-
     }
 }
