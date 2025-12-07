@@ -10,5 +10,6 @@ public class Main {
         double f = c * 9 / 5 + 32;   // F = C * 9/5 + 32
         System.out.printf("화씨 온도: %.2f%n", f);
 
+
     }
     }
