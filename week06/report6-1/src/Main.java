@@ -24,5 +24,6 @@ public class Main {
         System.out.printf("할인율: %.0f%%%n", rate * 100);
         System.out.printf("할인액: %,d원%n", discount);
         System.out.printf("지불금액: %,d원%n", pay);
+
     }
 }

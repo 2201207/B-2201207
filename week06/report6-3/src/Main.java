@@ -32,5 +32,6 @@ public class Main {
         System.out.printf("기본요금: %,d원%n", base);
         System.out.printf("심야추가: %,d원%n", surcharge);
         System.out.printf("총 요금: %,d원%n", total);
+
     }
 }

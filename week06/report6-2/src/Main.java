@@ -24,5 +24,6 @@ public class Main {
         System.out.printf("할인 후 금액: %,d원%n", afterDiscount);
         System.out.printf("부가세(10%%): %,d원%n", vat);
         System.out.printf("최종 지불 금액: %,d원%n", total);
+
     }
 }
